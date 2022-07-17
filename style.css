@@ -23,7 +23,7 @@ h1 {
     padding: 0;
 }
 
-/*Body Contents*/
+/* Body Contents */
 
 body div#image {
     margin-top: 55px;
@@ -39,5 +39,10 @@ body div#text {
     font-family: apple chancery, cursive;
     color: white;
     
+}
+
+.img-rounded-border {
+    border: 10px solid white;
+    border-radius: 10px;
 }
 
